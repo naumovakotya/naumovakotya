@@ -6,6 +6,9 @@
     <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     <a href="https://www.facebook.com/profile.php?id=100022394204077">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
+      <a href="mailto:naumova.ea.1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  <a href="https://www.facebook.com/profile.php?id=100022394204077">
 </div>
     <h3>
   My name is Ekaterina Naumova.
