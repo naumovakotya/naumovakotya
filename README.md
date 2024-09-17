@@ -19,9 +19,11 @@
 ---
 ### :woman_technologist: About Me: 
 
-I am a mathematician and software developer with a background in psychology. My dream is to improve the quality of people's lives by applying DS skills in the brain study. I build connections between natural and artificial intelligence.
+A Data Scientist with a strong mathematical background and experience working with medical and financial data. I am developing models for medium-term stock trading using Python and machine learning libraries. 
 
-For the past few years I have been enjoying sea sunsets in Georgia.
+I specialize in solving problems related to classification, regression, and time series analysis, and strive to optimize processes and create flexible solutions.
+
+My communication skills allow me to easily join teams and collaborate with others.
 
 ---
 
