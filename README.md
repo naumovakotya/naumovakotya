@@ -45,3 +45,18 @@ My communication skills allow me to easily join teams and collaborate with other
 ### 📖 Educations:
 1) [The Data Scientist Professional Training Course at Practicum by Yandex](https://github.com/naumovakotya/Yandex_practicum_DS_projects/blob/main/Naumova%20Ekaterina_20232%D0%A6%D0%9F%D0%94%D0%A100035.pdf)
 2) [Python Programming Online School at Coherent solutions](https://github.com/naumovakotya/Python_Programming_School/blob/main/Naumova_Ekaterina_Coherent_solutions.pdf)
+---
+### 💻 Work experience:
+**Data scientist Intern**
+
+*Startup Doct 24 Telemedicine, [Alpha Ecosystem](https://salfa.ru/)*
+
+
+
+Preprocessing and analysis of medical data:
+* Predicting the occurrence of complications (binary classification)
+* Prediction of the presence of heart defects (multiclass classification)
+
+Financial Assistant (recommendation system for stock trading):
+* Developed models for predicting the value of stocks using time series (regression). The prediction error (MAPE) is 1.068%.
+* I have developed an adaptive multifunctional solution where you can quickly change the asset type, predicted parameter, valuation metric, and other variables with just one line of code.
