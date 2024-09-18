@@ -53,10 +53,10 @@ My communication skills allow me to easily join teams and collaborate with other
 
 
 
-Preprocessing and analysis of medical data:
+Preprocessing and analysis of medical data: *(I'm sorry, I can't share these results)*
 * Predicting the occurrence of complications (binary classification)
 * Prediction of the presence of heart defects (multiclass classification)
 
-Financial Assistant (recommendation system for stock trading):
+[Financial Assistant](https://github.com/naumovakotya/My_projects_DS) (recommendation system for stock trading):
 * Developed models for predicting the value of stocks using time series (regression). The prediction error (MAPE) is 1.068%.
 * I have developed an adaptive multifunctional solution where you can quickly change the asset type, predicted parameter, valuation metric, and other variables with just one line of code.
