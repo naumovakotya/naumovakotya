@@ -1,4 +1,3 @@
-### Hi there!
 <div id="badges">
   <a href="https://www.linkedin.com/in/naumova-kotya/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -10,11 +9,15 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   <a href="https://www.facebook.com/profile.php?id=100022394204077">
 </div>
-    <h3>
+    
+### Hi there!
+<h3>
   My name is Ekaterina Naumova.
   Nice to see you on my page
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h3>
+
+
     
 ---
 ### :woman_technologist: About Me: 
