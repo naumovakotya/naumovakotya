@@ -22,11 +22,11 @@
 ---
 ### :woman_technologist: About Me: 
 
-A Data Scientist with a strong mathematical background and experience working with medical and financial data. I am developing models for medium-term stock trading using Python and machine learning libraries. 
+A Data Scientist with a strong mathematical background and medical and financial data processing experience. I develop models for medium-term stock trading using Python and machine learning. 
 
-I specialize in solving problems related to classification, regression, and time series analysis, and strive to optimize processes and create flexible solutions.
+My specialization is classification, regression and timeseries analysis related problem-solving. I strive to optimize processes and create flexible solutions. 
 
-My communication skills allow me to easily join teams and collaborate with others.
+My soft skills are the guarantee of seamless collaboration and productive collaboration with the team.
 
 ---
 
