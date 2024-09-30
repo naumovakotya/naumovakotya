@@ -3,9 +3,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <a href="https://t.me/Naumova_E">
     <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-    <a href="https://www.facebook.com/profile.php?id=100022394204077">
+  <a href="https://www.facebook.com/profile.php?id=100022394204077">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
-      <a href="mailto:naumova.ea.1@gmail.com">
+  <a href="mailto:naumova.ea.1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   <a href="https://www.facebook.com/profile.php?id=100022394204077">
 </div>
@@ -40,6 +40,8 @@ My soft skills are the guarantee of seamless collaboration and productive collab
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png" title="TensorFlow" alt="TensorFlow" width="70" height="45"/>&nbsp;
   <img src="https://static.javatpoint.com/tutorial/keras/images/keras.png" title="Keras" alt="Keras" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" title="Scikit-learn" alt="Scikit-learn" width="75" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="45" height="45"/>
 </div>
 
