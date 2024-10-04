@@ -52,7 +52,7 @@ My soft skills are the guarantee of seamless collaboration and productive collab
 2) [Python Programming Online School at Coherent solutions](https://github.com/naumovakotya/Python_Programming_School/blob/main/Naumova_Ekaterina_Coherent_solutions.pdf)
 ---
 ### 💻 Work experience:
-**Data scientist Intern**
+**Data scientist Intern** *(now)*
 
 *Startup Doct 24 Telemedicine, [Alpha Ecosystem](https://salfa.ru/)*
 
