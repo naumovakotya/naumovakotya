@@ -50,6 +50,7 @@ My soft skills are the guarantee of seamless collaboration and productive collab
 ### 📖 Educations:
 1) [The Data Scientist Professional Training Course at Practicum by Yandex](https://github.com/naumovakotya/Yandex_practicum_DS_projects/blob/main/Naumova%20Ekaterina_20232%D0%A6%D0%9F%D0%94%D0%A100035.pdf)
 2) [Python Programming Online School at Coherent solutions](https://github.com/naumovakotya/Python_Programming_School/blob/main/Naumova_Ekaterina_Coherent_solutions.pdf)
+3) [Algorithm Training 6.0 by Young & Yandex](https://github.com/naumovakotya/Young-Yandex/blob/main/%D0%A2%D1%80%D0%B5%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BF%D0%BE%20%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D0%B0%D0%BC%206.0.pdf)
 ---
 ### 💻 Work experience:
 **Data scientist Intern** *(now)*
